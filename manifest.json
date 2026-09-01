@@ -1,0 +1,17 @@
+{
+  "name": "Tuition Fees Tracker",
+  "short_name": "Fees Tracker",
+  "description": "Tuition fee management and payment tracking system",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b1f4d",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
